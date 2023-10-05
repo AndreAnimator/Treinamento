@@ -1,11 +1,12 @@
 # Treinamento
-## *Treinamento para Maratona de Programação*
+## *Treinamento para manter a prática*
 
 Sobre
 -----
 
 Treinamento realizado por meio de exercícios disponíveis no falecido URI e atual BEECROWD, com seus respectivos códigos no nome de cada arquivo de código.
 É apenas um treinamento portanto haverá falhas graves e coisas a melhorar, além de execícios a resolver.
+Terá também exercícios de outros sites, como o CODEWARS e etc.
 
 Progresso dos exercícios
 ------------------------
@@ -28,3 +29,5 @@ Lista dos exercícios:
 - [ ] Sem classificação:
   - [ ] 1147
   - [ ] 1582
+- [ ] CodeWars:
+  - [X] Convert string to camel case (Os testes do próprio site aparentam estar errado...)
