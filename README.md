@@ -31,3 +31,4 @@ Lista dos exercícios:
   - [ ] 1582
 - [ ] CodeWars:
   - [X] Convert string to camel case (Os testes do próprio site aparentam estar errado...)
+  - [X] Create Phone Number
