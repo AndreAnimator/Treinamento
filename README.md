@@ -32,3 +32,4 @@ Lista dos exercícios:
 - [ ] CodeWars:
   - [X] Convert string to camel case (Os testes do próprio site aparentam estar errado...)
   - [X] Create Phone Number
+  - [X] Bit Counting
