@@ -30,6 +30,6 @@ Lista dos exercícios:
   - [ ] 1147
   - [ ] 1582
 - [ ] CodeWars:
-  - [X] Convert string to camel case (Os testes do próprio site aparentam estar errado...)
+  - [X] Convert string to camel case
   - [X] Create Phone Number
   - [X] Bit Counting
