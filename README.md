@@ -33,3 +33,8 @@ Lista dos exercícios:
   - [X] Convert string to camel case
   - [X] Create Phone Number
   - [X] Bit Counting
+- [ ] LeetCode:
+  - [ ] The LeetCode Beginner's Guide
+    - [X] 1480. Running Sum of 1D Array
+    - [X] 1672. Richest Customer Wealth
+    - [ ] 412. Fizz Buzz 
