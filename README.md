@@ -29,6 +29,7 @@ Lista dos exercícios:
 - [ ] Sem classificação:
   - [ ] 1147
   - [ ] 1582
+  - [x] 1195
 - [ ] CodeWars:
   - [X] Convert string to camel case
   - [X] Create Phone Number
