@@ -38,4 +38,6 @@ Lista dos exercícios:
   - [ ] The LeetCode Beginner's Guide
     - [X] 1480. Running Sum of 1D Array
     - [X] 1672. Richest Customer Wealth
-    - [ ] 412. Fizz Buzz 
+    - [ ] 412. Fizz Buzz
+  - [ ] Top Interview 150
+    - [X] 88. Merge Sorted Array
