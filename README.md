@@ -41,3 +41,4 @@ Lista dos exercícios:
     - [ ] 412. Fizz Buzz
   - [ ] Top Interview 150
     - [X] 88. Merge Sorted Array
+    - [X] 27. Remove Element
