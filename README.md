@@ -40,8 +40,11 @@ Lista dos exercícios:
     - [X] 1672. Richest Customer Wealth
     - [ ] 412. Fizz Buzz
   - [ ] Top Interview 150
-    - [X] 88. Merge Sorted Array
-    - [X] 27. Remove Element
-    - [X] 26. Remove Duplicates From Sorted Array
-    - [X] 80. Remove Duplicates From Sorted Array II
-    - [X] 169. Majority Element
+    - [ ]  Array/String
+      - [X] 88. Merge Sorted Array
+      - [X] 27. Remove Element
+      - [X] 26. Remove Duplicates From Sorted Array
+      - [X] 80. Remove Duplicates From Sorted Array II
+      - [X] 169. Majority Element
+    - [ ] Two Pointers
+      - [X] 125. Valid Palindrome 
