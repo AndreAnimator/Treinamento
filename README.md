@@ -5,7 +5,7 @@ Sobre
 -----
 
 Treinamento realizado por meio de exercícios disponíveis no falecido URI e atual BEECROWD, com seus respectivos códigos no nome de cada arquivo de código.
-É apenas um treinamento portanto haverá falhas graves e coisas a melhorar, além de execícios a resolver.
+É apenas um treinamento, portanto, haverá falhas graves e melhorias a serem feitas, além de execícios a resolver.
 Terá também exercícios de outros sites, como o CODEWARS e etc.
 
 Progresso dos exercícios
@@ -47,4 +47,6 @@ Lista dos exercícios:
       - [X] 80. Remove Duplicates From Sorted Array II
       - [X] 169. Majority Element
     - [ ] Two Pointers
-      - [X] 125. Valid Palindrome 
+      - [X] 125. Valid Palindrome
+    - [ ] Hashmap
+      - [ ] 383. Ransom Note
