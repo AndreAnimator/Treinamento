@@ -49,4 +49,4 @@ Lista dos exercícios:
     - [ ] Two Pointers
       - [X] 125. Valid Palindrome
     - [ ] Hashmap
-      - [ ] 383. Ransom Note
+      - [X] 383. Ransom Note
