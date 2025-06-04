@@ -51,4 +51,4 @@ Lista dos exercícios:
     - [ ] Hashmap
       - [X] 383. Ransom Note
     - [ ] Sliding Window
-      - [X] 209. Minimu Size Subarray Sum 
+      - [X] 209. Minimum Size Subarray Sum 
