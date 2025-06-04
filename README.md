@@ -50,3 +50,5 @@ Lista dos exercícios:
       - [X] 125. Valid Palindrome
     - [ ] Hashmap
       - [X] 383. Ransom Note
+    - [ ] Sliding Window
+      - [X] 209. Minimu Size Subarray Sum 
