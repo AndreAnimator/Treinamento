@@ -51,4 +51,6 @@ Lista dos exercícios:
     - [ ] Hashmap
       - [X] 383. Ransom Note
     - [ ] Sliding Window
-      - [X] 209. Minimum Size Subarray Sum 
+      - [X] 209. Minimum Size Subarray Sum
+    - [ ] Matrix
+      - [X] 36. Valid Sudoku  
