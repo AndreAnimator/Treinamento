@@ -53,4 +53,6 @@ Lista dos exercícios:
     - [ ] Sliding Window
       - [X] 209. Minimum Size Subarray Sum
     - [ ] Matrix
-      - [X] 36. Valid Sudoku  
+      - [X] 36. Valid Sudoku
+    - [ ] Intervals
+      - [X] 228. Summary Ranges
