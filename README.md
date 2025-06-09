@@ -56,3 +56,5 @@ Lista dos exercícios:
       - [X] 36. Valid Sudoku
     - [ ] Intervals
       - [X] 228. Summary Ranges
+    - [ ] Stack
+      - [X] 20. Valid Parentheses
