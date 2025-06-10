@@ -35,6 +35,8 @@ Lista dos exercícios:
   - [X] Create Phone Number
   - [X] Bit Counting
 - [ ] LeetCode:
+  - [ ] Daily Challenges
+    - [X] 3442. Maximum Difference Between Even and Odd Frequency I 
   - [ ] The LeetCode Beginner's Guide
     - [X] 1480. Running Sum of 1D Array
     - [X] 1672. Richest Customer Wealth
