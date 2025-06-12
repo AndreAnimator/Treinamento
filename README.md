@@ -60,3 +60,5 @@ Lista dos exercícios:
       - [X] 228. Summary Ranges
     - [ ] Stack
       - [X] 20. Valid Parentheses
+    - [ ] Linked List
+      - [X] 141. Linked List Cycle 
