@@ -61,4 +61,6 @@ Lista dos exercícios:
     - [ ] Stack
       - [X] 20. Valid Parentheses
     - [ ] Linked List
-      - [X] 141. Linked List Cycle 
+      - [X] 141. Linked List Cycle
+    - [ ] Binary Tree General
+      - [X] 104. Maximum Depth of Binary Tree 
