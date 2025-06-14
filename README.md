@@ -63,4 +63,6 @@ Lista dos exercícios:
     - [ ] Linked List
       - [X] 141. Linked List Cycle
     - [ ] Binary Tree General
-      - [X] 104. Maximum Depth of Binary Tree 
+      - [X] 104. Maximum Depth of Binary Tree
+    - [ ] Binary Tree BFS
+      - [X] 199. Binary Tree Right Side View
