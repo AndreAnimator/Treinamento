@@ -66,3 +66,5 @@ Lista dos exercícios:
       - [X] 104. Maximum Depth of Binary Tree
     - [ ] Binary Tree BFS
       - [X] 199. Binary Tree Right Side View
+    - [ ] Binary Search Tree
+      - [X] 530. Minimum Absolute Difference in BST
