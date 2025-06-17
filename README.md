@@ -68,3 +68,5 @@ Lista dos exercícios:
       - [X] 199. Binary Tree Right Side View
     - [ ] Binary Search Tree
       - [X] 530. Minimum Absolute Difference in BST
+    - [ ] Graph General
+      - [X] 207. Course Schedule
