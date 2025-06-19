@@ -70,3 +70,5 @@ Lista dos exercícios:
       - [X] 530. Minimum Absolute Difference in BST
     - [ ] Graph General
       - [X] 207. Course Schedule
+    - [ ] Trie
+      - [X] 208. Implement Trie (Prefix Tree)
