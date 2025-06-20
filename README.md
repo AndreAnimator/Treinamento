@@ -72,3 +72,5 @@ Lista dos exercícios:
       - [X] 207. Course Schedule
     - [ ] Trie
       - [X] 208. Implement Trie (Prefix Tree)
+    - [ ] Backtrack
+      - [X] 17. Letter Combinations of a Phone Number 
