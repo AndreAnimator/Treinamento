@@ -73,4 +73,6 @@ Lista dos exercícios:
     - [ ] Trie
       - [X] 208. Implement Trie (Prefix Tree)
     - [ ] Backtrack
-      - [X] 17. Letter Combinations of a Phone Number 
+      - [X] 17. Letter Combinations of a Phone Number
+    - [ ] Divide & Conquer
+      - [X] 108. Convert Sorted Array to Binary Search Tree
