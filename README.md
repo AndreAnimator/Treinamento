@@ -78,3 +78,5 @@ Lista dos exercícios:
       - [X] 108. Convert Sorted Array to Binary Search Tree
     - [ ] Binary Search
       - [X] 35. Search Insert Position
+    - [ ] Heap
+      - [X] 215. Kth Largest Element in an Array
