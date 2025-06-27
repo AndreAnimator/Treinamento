@@ -76,6 +76,8 @@ Lista dos exercícios:
       - [X] 17. Letter Combinations of a Phone Number
     - [ ] Divide & Conquer
       - [X] 108. Convert Sorted Array to Binary Search Tree
+    - [ ] Kadane's Algorithm
+      - [X] 53. Maximum Subarray
     - [ ] Binary Search
       - [X] 35. Search Insert Position
     - [ ] Heap
