@@ -83,3 +83,5 @@ Lista dos exercícios:
       - [X] 35. Search Insert Position
     - [ ] Heap
       - [X] 215. Kth Largest Element in an Array
+    - [ ] Bit Manipulation
+      - [X] 67. Add Binary
