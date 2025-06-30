@@ -36,7 +36,8 @@ Lista dos exercícios:
   - [X] Bit Counting
 - [ ] LeetCode:
   - [ ] Daily Challenges
-    - [X] 3442. Maximum Difference Between Even and Odd Frequency I 
+    - [X] 3442. Maximum Difference Between Even and Odd Frequency I
+    - [X] 594. Longest Harmonious Subsequence
   - [ ] The LeetCode Beginner's Guide
     - [X] 1480. Running Sum of 1D Array
     - [X] 1672. Richest Customer Wealth
