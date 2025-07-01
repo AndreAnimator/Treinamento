@@ -86,3 +86,5 @@ Lista dos exercícios:
       - [X] 215. Kth Largest Element in an Array
     - [ ] Bit Manipulation
       - [X] 67. Add Binary
+    - [ ] Math
+      - [X] 9. Palindrome Number 
