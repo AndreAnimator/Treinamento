@@ -87,4 +87,6 @@ Lista dos exercícios:
     - [ ] Bit Manipulation
       - [X] 67. Add Binary
     - [ ] Math
-      - [X] 9. Palindrome Number 
+      - [X] 9. Palindrome Number
+    - [ ] 1D DP
+      - [X] 70. Climbing Stairs
