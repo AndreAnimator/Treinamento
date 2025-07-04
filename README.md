@@ -91,3 +91,5 @@ Lista dos exercícios:
       - [X] 9. Palindrome Number
     - [ ] 1D DP
       - [X] 70. Climbing Stairs
+    - [ ] Multidimensional DP
+      - [X] 120. Triangle
