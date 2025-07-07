@@ -73,6 +73,8 @@ Lista dos exercícios:
       - [X] 530. Minimum Absolute Difference in BST
     - [ ] Graph General
       - [X] 207. Course Schedule
+    - [ ] Graph BFS
+      - [X] 433. Minimum Genetic Mutation
     - [ ] Trie
       - [X] 208. Implement Trie (Prefix Tree)
     - [ ] Backtrack
