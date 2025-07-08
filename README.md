@@ -51,6 +51,7 @@ Lista dos exercícios:
       - [X] 26. Remove Duplicates From Sorted Array
       - [X] 80. Remove Duplicates From Sorted Array II
       - [X] 169. Majority Element
+      - [X] 89. Rotate Array
     - [ ] Two Pointers
       - [X] 125. Valid Palindrome
     - [ ] Hashmap
