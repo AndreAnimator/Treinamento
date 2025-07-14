@@ -52,6 +52,7 @@ Lista dos exercícios:
       - [X] 80. Remove Duplicates From Sorted Array II
       - [X] 169. Majority Element
       - [X] 89. Rotate Array
+      - [X] 121. Best Time to Buy and Sell Stock
     - [ ] Two Pointers
       - [X] 125. Valid Palindrome
     - [ ] Hashmap
