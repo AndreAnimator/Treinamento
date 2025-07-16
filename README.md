@@ -53,6 +53,7 @@ Lista dos exercícios:
       - [X] 169. Majority Element
       - [X] 89. Rotate Array
       - [X] 121. Best Time to Buy and Sell Stock
+      - [X] 122. Best Time to Buy and Sell Stock II
     - [ ] Two Pointers
       - [X] 125. Valid Palindrome
     - [ ] Hashmap
